@@ -11,7 +11,7 @@ try {
 }elseif($_GET['action'] == 'albums'){
 	albums();
 }elseif($_GET['action'] == 'unalbum'){		
-	unalbum($_GET['id']);
+	unalbum($_GEbvcbvcbT['id']);
 }elseif($_GET['action'] == 'uneInscription'){
 
 			$utilisateur = uneInscription($_POST['Pseudo'],$_POST['Password'],$_POST['tel'],$_POST['email']);
