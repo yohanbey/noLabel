@@ -1,0 +1,142 @@
+.login-form {
+		width: 340px;
+    	margin: 50px auto;
+	}
+    .login-form form {
+    	margin-bottom: 15px;
+  
+        padding: 30px;
+    }
+    .login-form h2 {
+        margin: 0 0 15px;
+    }
+    .form-control, .btn {
+        min-height: 38px;
+        border-radius: 2px;
+    }
+    .btn {        
+        font-size: 15px;
+        font-weight: bold;
+    }
+    
+    .navbar-inverse {
+    border-radius: 0px;
+}
+
+
+
+.navbar-inverse {
+    border-radius: 0px;
+}
+
+
+    .navbar-inverse .navbar-nav>li>a:hover {
+    color: #fff;
+    background-color: #1ED760;
+    
+}
+
+.navbar-inverse {
+    border-radius: 0px;
+}
+
+.btn-primary {
+    background-color: #1db954;
+    letter-spacing: 2px;
+    border-radius: 500px;
+    padding: 20px 30px 20px;
+  
+    
+}
+
+.btn-primary:hover {
+    color: #fff;
+   background-color: #4bdf80;
+ 
+}
+
+#button2{
+     color: #616467;
+    box-shadow: inset 0 0 0 2px #616467;
+    background-color: transparent;
+   padding: 20px 30px 20px;
+       transition-duration: .3s;
+    
+}
+
+
+#button2:hover{
+      color: #fff;
+    background-color: #616467;
+    
+ 
+}
+
+.album {
+   text-align: center;
+   color : white;
+}
+
+.titre{
+    text-align: center;
+}
+
+.btn-block {
+    display: block;
+ 
+}
+
+.liste {
+    line-height: 1.92857143;
+    color : white;
+    float: right;
+}
+
+.listegroupe{
+    color:white;
+    padding-right : 10px;
+    padding-left: 10px;
+   
+}
+
+a.listegroupe:hover {
+    background: #1db954;
+    display: inline-block;
+    box-shadow: 2px 2px 8px -1px rgba(0,0,0,0.75);
+    /* padding-right: 5px; */
+    /* padding-left: 5px; */
+    transition: ease 0.3s;
+    text-decoration : none;
+}
+
+.bodytime{
+    background-color: rgb(45, 49, 57);
+}
+
+ul.liste{
+    list-style: none;
+    margin-right: 30%;
+    font-size: 22px;
+    line-height: 49px;
+
+}
+
+.titre{
+    float: left;
+    margin-left: 50PX;
+}
+
+.page_accueil{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+.btn_accueil {
+    width: 200px !important ;
+}
+
+.lien_btn{
+    display : contents ;
+}
+
